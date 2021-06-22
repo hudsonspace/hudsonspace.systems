@@ -1,0 +1,2 @@
+(self.webpackChunkhudsonspace_systems=self.webpackChunkhudsonspace_systems||[]).push([[883],{59616:function(s,e,n){"use strict";n.r(e);var u=n(67294),t=n(59694);e.default=function(){return(0,u.useEffect)((function(){(0,t.navigate)("/")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-404-js-12c9bcd12d0ba4040bb8.js.map
